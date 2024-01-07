@@ -42,6 +42,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
+![rAHUL 7](https://github.com/Rahulv2005/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/152600335/9467275a-cdaf-4035-b02e-f3db26faa455)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
